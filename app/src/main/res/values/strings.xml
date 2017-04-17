@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map1</string>
+    <string name="button">submit</string>
+    <string name="map_Type_None">None</string>
+    <string name="map_Type_Normal">Normal</string>
+    <string name="map_Type_Terrain">Terrain</string>
+    <string name="map_Type_Settelite">Settelite</string>
+    <string name="map_Type_Hybrid">Hybrid</string>
+</resources>
